@@ -22,21 +22,23 @@
 
 
 ## Deliverables
-#### Tools
+### Tools
 * arm toolchain
   - https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
   - or on mac: `brew install --cask gcc-arm-embedded`
 
 * OpenOCD
   - Windows: https://github.com/openocd-org/openocd/releases
-  - Mac: `brew install open-ocd`
+  - Mac: `brew install open-ocd`,
 
 
-#### Chip Documentation
+### Chip Documentation
 * Chip: `STM32F334R8T6`
 * Nucleo Board Manual: https://www.st.com/resource/en/user_manual/dm00105823.pdf
 * MCU Datasheet: https://www.st.com/resource/en/datasheet/stm32f334r8.pdf
 * MCU Reference Manual: https://www.st.com/resource/en/reference_manual/rm0364-stm32f334xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
 
 
+### Notes
+* User LED `LD2` for this nulceo board is connected to GPIO `PA5`
 

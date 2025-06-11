@@ -34,6 +34,10 @@
 
 ### Chip Documentation
 * Chip: `STM32F334R8T6`
+  - R = 64 pins
+  - 8 = 64k bytes of flash
+  - T = LQFP package
+  - 6 = -40C to 85C temp range
 * Nucleo Board Manual: https://www.st.com/resource/en/user_manual/dm00105823.pdf
 * MCU Datasheet: https://www.st.com/resource/en/datasheet/stm32f334r8.pdf
 * MCU Reference Manual: https://www.st.com/resource/en/reference_manual/rm0364-stm32f334xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf

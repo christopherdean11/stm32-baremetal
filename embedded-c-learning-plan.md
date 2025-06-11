@@ -22,13 +22,13 @@ This learning plan will teach you embedded C programming from the ground up, sta
 
 ## Phase 1: Understanding the Hardware (Week 1)
 
-### Activity 1: Know Your Board
+### Activity 1: Know Your Board :white_check_mark:
 - **Exercise:** Identify your STM32 chip model (STM32F103, STM32F411, etc.)
 - **Research:** Download the reference manual and datasheet for your specific chip
 - **Practice:** Locate the LED pin on your board's schematic
 - **Deliverable:** Document which GPIO port and pin your LED is connected to
 
-### Activity 2: Memory Map Deep Dive
+### Activity 2: Memory Map Deep Dive :white_check_mark:
 - **Exercise:** Study the STM32 memory map in the reference manual
 - **Practice:** Understand the difference between Flash, SRAM, and peripheral memory regions
 - **Research:** Find the base addresses for GPIO, RCC (Reset and Clock Control), and other peripherals
